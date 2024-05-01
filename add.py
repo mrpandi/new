@@ -1,3 +1,3 @@
-a = 6
+a = 10
 b = 8
-print (a+b)
+print ("The result is",a+b)
